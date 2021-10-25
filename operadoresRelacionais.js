@@ -46,4 +46,4 @@ outro exemplo:
 console.log('04A)', '4' !== 4)
 console.log('04B)', '4'!== 5)
 console.log('/***************************/')
-
+z
